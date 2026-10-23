@@ -52,11 +52,11 @@ llm:
   # deepseek: DeepSeek (DEEPSEEK_API_KEY), writer/editor deepseek-v4-pro or deepseek-flash (cheaper).
   #          No image input: set images.text.mode to tags. The control panel switches all of this at once.
   # openai:  OpenAI (OPENAI_API_KEY)
-  provider: anthropic
+  provider: deepseek
   base_url: ""              # empty = provider default
   api_key_env: ""           # empty = ANTHROPIC_API_KEY / DEEPSEEK_API_KEY / MISTRAL_API_KEY / GROQ_API_KEY / OPENAI_API_KEY
-  writer_model: claude-sonnet-5-5
-  editor_model: claude-sonnet-5-5
+  writer_model: deepseek-v4-pro
+  editor_model: deepseek-v4-pro
   # Mistral only: used in this order when your plan does not include a model ("not available in your
   # subscription tier"), e.g. [mistral-medium-latest, mistral-small-latest, open-mistral-nemo].
   fallback_models: []
@@ -154,7 +154,7 @@ images:
   download_dir: artifacts/images
   max_file_mb: 15
   text:                     # caption (Bildtext) + description/alt text (Bildbeschreibung)
-    mode: vision            # vision: the model looks at the downloaded image | tags: templates only
+    mode: tags            # vision: the model looks at the downloaded image | tags: templates only
     # Must accept image input (Claude, Mistral Large; on Groq qwen/qwen3.8-27b). DeepSeek: use mode tags.
     # Empty = llm.writer_model.
     model: claude-sonnet-5-5
