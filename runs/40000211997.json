@@ -1,0 +1,222 @@
+{
+ "summary": {
+  "run_id": "gh-40000211997-1",
+  "mode": "full",
+  "dry_run": false,
+  "started_at": "2026-10-23T18:11:31.824+00:00",
+  "finished_at": "2026-10-23T18:21:37.376+00:00",
+  "slot": "",
+  "generated": [
+   "20261023-181259-00b5cecd"
+  ],
+  "approved": [
+   "20261023-181259-00b5cecd"
+  ],
+  "rejected": [],
+  "published": [],
+  "drafts": [],
+  "updated": [],
+  "failures": [],
+  "notes": [
+   "publishing.enabled is false (or BOT_PAUSED is set)"
+  ],
+  "needs_human": false
+ },
+ "articles": [
+  {
+   "id": "20261023-181259-00b5cecd",
+   "topic": "Wissenschaft",
+   "status": "approved",
+   "idea": "",
+   "idea_source": "rotation",
+   "created_at": "2026-10-23T18:12:59.920+00:00",
+   "updated_at": "2026-10-23T18:21:35.756+00:00",
+   "content": {
+    "title": "Social-Media-Verbote retten die Psyche Jugendlicher nicht",
+    "teaser": "In den USA zahlen Tech-Konzerne Milliarden – trotzdem warnt Experte Ari Lightman vor pauschalen Verboten für Jugendliche.",
+    "body_html": "<p>Mehr als 17 Milliarden US-Dollar haben <em>Meta</em> und die Google-Tochter <em>YouTube</em> seit März 2026 in juristischen Vergleichen und Urteilen gezahlt. Der Vorwurf der Kläger wiegt schwer: vorsätzliche Fahrlässigkeit, süchtig machendes Produktdesign und die systematische Täuschung der Öffentlichkeit über Risiken für Kinder und Jugendliche.</p><p>Trotz dieser enormen Summen warnt der US-Medienwissenschafter Ari Lightman vor einem pauschalen Verbot sozialer Netzwerke. Im <em>Standard</em> erklärt der Professor für digitale Medien, warum Verbote für Jugendliche nicht die Rettung sind. Er plädiert dafür, die Vorteile der Plattformen nicht zu übersehen.</p><h2>Warum Verbote zu kurz greifen</h2><p>Ein pauschales Verbot greife zu kurz und ignoriere die Vorteile von sozialen Netzwerken, sagt Lightman laut <em>Standard</em>. Im schlimmsten Fall drohe weitere Isolation. Für Kinder und Jugendliche sei es keine gute Idee, sie komplett von Social Media abzuschneiden.</p><p>Soziale Netzwerke sind für viele junge Menschen ein Ort, an dem sie Freundschaften pflegen, sich austauschen und Unterstützung finden. Wer diese Räume wegnimmt, riskiert, dass Jugendliche sich noch stärker zurückziehen – besonders jene, die in ihrer direkten Umgebung wenige Gleichgesinnte haben. Ein Verbot könnte genau die Kontakte kappen, die ihnen Halt geben.</p><h2>Die Klagen gegen Meta und YouTube</h2><p>Die Milliardenzahlungen sind Teil einer wachsenden juristischen Auseinandersetzung um die Verantwortung der Tech-Konzerne. Die Kläger werfen <em>Meta</em> und <em>YouTube</em> vor, wissentlich Produkte entwickelt zu haben, die süchtig machen, und die Öffentlichkeit über Risiken getäuscht zu haben.</p><p>Doch auch wenn die Vorwürfe schwer wiegen: Lightman warnt davor, aus den Fehlern der Konzerne ein pauschales Verbot für alle jungen Nutzer abzuleiten. Die Vorteile der Plattformen dürften nicht übersehen werden, betont er. Ein Verbot, das nur auf Risiken schaut, übergeht die positiven Seiten – etwa den Austausch mit Gleichgesinnten oder den Zugang zu Informationen.</p><h2>Regeln statt Verbote</h2><p>Für Jugendliche geht es nicht um ein Entweder-oder. Es braucht Regeln, die riskante Inhalte eindämmen, ohne die sozialen Funktionen zu zerstören. Sonst droht genau die Isolation, vor der Lightman warnt. Der Experte legt nahe, dass soziale Netzwerke nicht nur Gefahren bergen, sondern auch Chancen bieten, die bei einem Verbot verloren gehen würden.</p><p>Die Debatte über Social-Media-Verbote ist damit keine einfache Frage von Verbot oder Erlaubnis. Sie ist eine Frage danach, wie junge Menschen online sicher und gleichzeitig sozial verbunden bleiben können. Die Milliardenklagen zeigen, dass die Tech-Konzerne Verantwortung übernehmen müssen – aber ein Verbot allein löst das Problem nicht, es könnte Jugendliche von ihren Netzwerken abschneiden.</p><p>Ob Verbote helfen oder schaden, entscheidet sich am Ende daran, ob Jugendliche ihre sozialen Kontakte behalten dürfen. Das ist die zentrale Frage, die Lightmans Warnung aufwirft.</p><h2>Platzhalter-Zitate (erfunden – vor dem Veröffentlichen durch echte Zitate ersetzen oder löschen)</h2><ul><li>[PLATZHALTER] Ich bin fast jeden Tag auf <em>TikTok</em>, aber ein komplettes Verbot würde mich von meinen Freunden abschneiden – viele Gruppen laufen nur dort. – Lena, 16, Schülerin aus Wien</li><li>[PLATZHALTER] Meine Eltern wollen mir <em>Instagram</em> verbieten, aber dann hätte ich gar keinen Kontakt mehr zu meiner Cousine in Deutschland. – David, 17, Schüler aus Graz</li></ul>",
+    "seo_title": "Social-Media-Verbote retten Psyche Jugendlicher nicht",
+    "meta_description": "Social-Media-Verbote greifen zu kurz, sagt US-Experte Ari Lightman. Jugendlichen droht Isolation statt Schutz. Was Eltern und Schulen wissen sollten.",
+    "keywords": [
+     "Social-Media-Verbote",
+     "Jugendliche",
+     "psychische Gesundheit",
+     "Ari Lightman",
+     "Meta",
+     "YouTube",
+     "Isolation",
+     "Klagen"
+    ],
+    "slug": "social-media-verbote-psyche-jugendlicher-lightman",
+    "image_keywords": [
+     "social media ban",
+     "teenager smartphone",
+     "mental health",
+     "courtroom",
+     "digital isolation"
+    ],
+    "article_type": "factual",
+    "claims": [
+     {
+      "claim": "Meta und die Google-Tochter YouTube haben seit März 2026 in juristischen Vergleichen und Urteilen mehr als 17 Milliarden US-Dollar gezahlt.",
+      "source_url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+      "evidence": "Seit März haben Tech-Schwergewichte wie Meta und die Google-Tochter Youtube in juristischen Vergleichen und Urteilen mehr als 17 Milliarden US-Dollar gezahlt."
+     },
+     {
+      "claim": "Der Vorwurf der Kläger wiegt schwer: vorsätzliche Fahrlässigkeit, süchtig machendes Produktdesign und die systematische Täuschung der Öffentlichkeit über Risiken für Kinder und Jugendliche.",
+      "source_url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+      "evidence": "Der Vorwurf der Kläger wiegt schwer: vorsätzliche Fahrlässigkeit, süchtig machendes Produktdesign und die systematische Täuschung der Öffentlichkeit über Risiken für Kinder und Jugendliche."
+     },
+     {
+      "claim": "Ari Lightman ist US-Medienwissenschafter.",
+      "source_url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+      "evidence": "US-Medienwissenschafter Ari Lightman"
+     },
+     {
+      "claim": "Ari Lightman wird im Standard als Professor für digitale Median bezeichnet.",
+      "source_url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+      "evidence": "Professor für digitale Median Ari Lightman"
+     },
+     {
+      "claim": "Ein pauschales Verbot greife zu kurz und ignoriere die Vorteile von sozialen Netzwerken; im schlimmsten Fall droht weitere Isolation, sagt Ari Lightman.",
+      "source_url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+      "evidence": "Ein pauschales Verbot greife zu kurz und ignoriere die Vorteile von sozialen Netzwerken. Im schlimmsten Fall droht weitere Isolation, sagt US-Medienwissenschafter Ari Lightman"
+     },
+     {
+      "claim": "Kinder und Jugendliche von Social Media abzuschneiden ist laut Lightman keine gute Idee.",
+      "source_url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+      "evidence": "Kinder und Jugendliche von Social Media abschneiden? Das ist für sich keine gute Idee, sagt der Professor für digitale Median Ari Lightman."
+     }
+    ],
+    "sources": [
+     {
+      "title": "Social-Media-Verbote werden die Psyche von Jugendlichen nicht retten, warnt der Experte",
+      "url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+      "published": "",
+      "excerpt": ""
+     }
+    ]
+   },
+   "reviews": [
+    {
+     "iteration": 3,
+     "scores": {
+      "factual_accuracy": 7.0,
+      "readability": 8.0,
+      "structure": 6.0,
+      "grammar": 9.0,
+      "seo": 9.0,
+      "relevance": 7.0,
+      "originality": 6.0,
+      "clarity": 8.0,
+      "instruction_adherence": 6.0
+     },
+     "weighted_score": 7.21,
+     "passed": true,
+     "critical_issues": [],
+     "automated_issues": [],
+     "feedback": [
+      {
+       "area": "factual_accuracy",
+       "issue": "Mehrere Aussagen wie \"Soziale Netzwerke sind für viele junge Menschen ein Ort...\" und \"Regeln, die riskante Inhalte eindämmen...\" sind nicht direkt durch das Recherchematerial belegt und wirken wie Fakten.",
+       "suggestion": "Entweder klar als Hintergrund/Meinung kennzeichnen oder mit weiteren Quellen belegen; Lightmans Aussagen nur so wiedergeben, wie sie im Standard stehen."
+      },
+      {
+       "area": "readability",
+       "issue": "Wiederholungen von 'pauschales Verbot', 'Vorteile nicht übersehen' und 'Isolation' über mehrere Absätze.",
+       "suggestion": "Synonyme verwenden oder Absätze straffen, um Redundanz zu vermeiden."
+      },
+      {
+       "area": "structure",
+       "issue": "Kein lokales Beispiel aus Österreich vor den internationalen; der Schluss ist eine Zusammenfassung/Fazit, was gegen die Vorgabe verstößt.",
+       "suggestion": "Ein konkretes Beispiel aus Wien/Österreich (z. B. Schule, Jugendliche) vor den US-Klagen einfügen; Schluss als weiterwirkenden Gedanken oder Rückbezug zum Einstieg umformulieren."
+      },
+      {
+       "area": "grammar",
+       "issue": "Keine grammatikalischen Fehler gefunden.",
+       "suggestion": "Keine Änderung nötig."
+      },
+      {
+       "area": "seo",
+       "issue": "Meta-Beschreibung verspricht 'Was Eltern und Schulen wissen sollten', aber der Artikel spricht Eltern/Schulen nicht direkt an.",
+       "suggestion": "Meta-Beschreibung an den tatsächlichen Inhalt anpassen oder entsprechenden Abschnitt ergänzen."
+      },
+      {
+       "area": "relevance",
+       "issue": "Der Text bleibt stark auf US-Klagen und US-Experten fokussiert, ohne österreichischen Bezug für die Zielgruppe.",
+       "suggestion": "Lokalen Bezug herstellen, z. B. wie österreichische Schulen mit Smartphones umgehen oder was Wiener Jugendliche über Verbote denken."
+      },
+      {
+       "area": "originality",
+       "issue": "Der Artikel ist im Wesentlichen eine Paraphrase der Standard-Quelle, ohne eigene Recherche oder eigenen Blickwinkel.",
+       "suggestion": "Durch eigene Umfrage, Interviews oder eine konkrete österreichische Perspektive unverwechselbar machen."
+      },
+      {
+       "area": "clarity",
+       "issue": "Der Abschnitt 'Regeln statt Verbote' klingt wie eine Empfehlung des Experten, obwohl die Quelle das nicht explizit sagt.",
+       "suggestion": "Klare Zuordnung: 'Lightman deutet an, dass...' oder als eigene Schlussfolgerung kennzeichnen."
+      },
+      {
+       "area": "instruction_adherence",
+       "issue": "Vorspann ist nur ein Satz (mit Gedankenstrich), das Füllwort 'genau' erscheint zweimal, und der Schluss ist ein Fazit; lokale Beispiele fehlen.",
+       "suggestion": "Vorspann in zwei bis drei Sätze aufteilen, 'genau' streichen, Schluss gemäß Vorgabe umformulieren, lokales Beispiel ergänzen."
+      }
+     ],
+     "summary": "Der Artikel liefert die wichtigsten Fakten aus der Standard-Quelle, verletzt aber mehrere Stil- und Strukturvorgaben und hat keinen Österreich-Bezug. Vor der Veröffentlichung sollten Teaser, Schluss und lokale Beispiele überarbeitet und eigene O-Töne eingeholt werden.",
+     "model": "deepseek-v4-pro",
+     "created_at": "2026-10-23T18:21:35.756+00:00",
+     "author_todos": [
+      "Platzhalter-Zitate am Textende durch echte Zitate ersetzen oder löschen",
+      "Eigenes Interview mit einer Schülerin oder einem Schüler (z. B. 16–17 Jahre aus Wien oder Graz) führen und als echtes Zitat einbauen.",
+      "Eine Lehrerin oder einen Lehrer zu konkreten Social-Media-Regeln an einer österreichischen Schule befragen.",
+      "Lokales Beispiel recherchieren: Wie gehen Wiener oder Grazer Schulen mit Smartphones um? Eigenes Foto aus dem Schulumfeld aufnehmen.",
+      "Die Platzhalter-Zitate ersetzen oder löschen, sobald echte Aussagen vorliegen.",
+      "Optional: Eigene kurze Umfrage unter Mitschülerinnen und Mitschülern zu Social-Media-Verboten durchführen und Ergebnis einbauen."
+     ]
+    }
+   ],
+   "research_sources": [
+    {
+     "title": "Posttraumatischer Stress bei Betroffenen",
+     "url": "https://science.orf.at/stories/3237858/",
+     "published": "Thu, 22 Oct 2026 08:09:53 +0000",
+     "excerpt": "Während sich viele Diskussionen rund um Krebs vor allem mit medizinischem Fortschritt bei Therapien beschäftigen, bleiben die psychischen Leiden der Betroffenen oft unberücksichtigt. Laut einer Studie zeigt etwa ein Drittel Zeichen von posttraumatischen Belastungssymptomen.\n„Posttraumatische Belastu"
+    },
+    {
+     "title": "Social-Media-Verbote werden die Psyche von Jugendlichen nicht retten, warnt der Experte",
+     "url": "https://www.derstandard.at/story/3000000345061/social-media-verbote-werden-die-psyche-von-jugendlichen-nicht-retten-warnt-der-experte?ref=rss",
+     "published": "Wed, 21 Oct 2026 03:00:00 Z",
+     "excerpt": "Social-Media-Verbote werden die Psyche von Jugendlichen nicht retten, warnt der Experte\nEin pauschales Verbot greife zu kurz und ignoriere die Vorteile von sozialen Netzwerken. Im schlimmsten Fall droht weitere Isolation, sagt US-Medienwissenschafter Ari Lightman\nKinder und Jugendliche von Social Me"
+    },
+    {
+     "title": "Unidemonstration gegen Budgetkürzungen",
+     "url": "https://wien.orf.at/stories/3376242/",
+     "published": "Thu, 22 Oct 2026 14:40:49 +0000",
+     "excerpt": "In der Innenstadt ist am Donnerstag gegen die Budgetkürzungen an den Universitäten demonstriert worden. Die Österreichische Hochschülerinnen- und Hochschülerschaft (ÖH) erhofft sich noch eine Erhöhung des Budgets, das Wissenschaftsministerium weist das zurück.\nBeginn der Veranstaltung unter dem Mott"
+    }
+   ],
+   "image": null,
+   "image_status": "",
+   "publication": {
+    "stage": "none",
+    "typo3_table": "",
+    "typo3_uid": null,
+    "typo3_page_uid": null,
+    "slug": "",
+    "public_url": "",
+    "published_at": "",
+    "verified_at": "",
+    "verification": {},
+    "attempts": 0,
+    "last_attempt_at": "",
+    "run_id": ""
+   },
+   "rejected_reasons": [],
+   "errors": [],
+   "versions": [],
+   "slot_key": "",
+   "last_update_check": "",
+   "test_content": false
+  }
+ ]
+}
