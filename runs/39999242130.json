@@ -1,0 +1,25 @@
+{
+ "summary": {
+  "run_id": "gh-39999242130-1",
+  "mode": "full",
+  "dry_run": false,
+  "started_at": "2026-10-23T17:57:25.708+00:00",
+  "finished_at": "2026-10-23T17:57:36.032+00:00",
+  "slot": "",
+  "generated": [],
+  "approved": [],
+  "rejected": [],
+  "published": [],
+  "drafts": [],
+  "updated": [],
+  "failures": [
+   {
+    "stage": "run",
+    "error": "ANTHROPIC_API_KEY is not set (llm.provider: anthropic)"
+   }
+  ],
+  "notes": [],
+  "needs_human": false
+ },
+ "articles": []
+}
